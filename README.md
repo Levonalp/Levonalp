@@ -1,18 +1,50 @@
-# 👋 Hi, I'm Levon Alshabi!
+# Hi there, I'm Levon Alshabi! 👋
 
-## 🚀 About Me
-I'm a versatile Software Engineer based in Austin, TX. Specializing in full-stack development, I'm passionate about building scalable fintech solutions and translating technical challenges into business successes.
+## Welcome to My GitHub Profile!
 
-🌐 [Website](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
-
-## 🛠 Skills
-- **Languages & Frameworks:** ReactJS, Node.JS, Django, Express.js, JavaScript, Python, HTML5, CSS3, SQL, JSON
-- **Technologies & Tools:** Git, MongoDB, Ansible, OAuth, GitHub, Agile Methodologies, Microservices, Ubuntu, Linux, PagerDuty, VS Code, Jira, Confluence, Mongoose
-- **Sales & Client Service:** Expertise in client needs assessment, solution presentation, relationship building, and technical consultation
-
-
-## 🔍 Current Interests
-I'm currently exploring the latest in fintech innovations, focusing on microservices and cloud technologies. Always open to collaborating on projects that challenge the status quo and push the boundaries of technology.
+### 📍 Austin, TX | 📧 lwshabee@gmail.com | 🌐 [levonalshabi.com](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
 
 ---
+
+I'm a Software Engineer with a focus on full-stack development, deeply passionate about creating innovative fintech solutions. My goal is to leverage my extensive technical expertise and strategic sales approach to drive business growth and technological advancements.
+
+---
+
+## 💼 Professional Snapshot
+
+- **Current Role:** Software Engineer at Cofi (Remote) - Pioneering in architecting and enhancing fintech solutions with a focus on scalability and user experience.
+- **Background:** Diverse experience spanning software engineering, real estate sales, and appraisals - a blend that gives me a unique perspective on tech solutions.
+
+---
+
+## 🛠️ Technical Expertise
+
+- **Languages & Frameworks:** ReactJS, Node.js, Django, Express.js, JavaScript, Python, HTML5, CSS3, SQL, JSON
+- **Technologies & Tools:** Git, MongoDB, Ansible, OAuth, GitHub, Agile, Microservices, Ubuntu, Linux, PagerDuty, VS Code, Jira, Confluence, Mongoose
+- **Soft Skills:** Bridging technical and non-technical stakeholders, product demonstrations, client consultation, and relationship building
+
+---
+
+## 📚 Education
+
+- **Bachelor's in Computer Science**, IUoB
+- **Associate in Science (A.S.)**, Oakland Community College
+- **Licensed Real Estate Appraiser & Salesperson**, State of Texas
+
+---
+
+## 🌱 I'm currently...
+
+- Exploring new advancements in fintech, especially microservices and cloud technologies.
+- Seeking opportunities to collaborate on challenging projects that demand innovative solutions.
+
+---
+
+### 📫 How to Reach Me
+
+Feel free to reach out for collaborations or if you're interested in learning more about my experience. I'm always open to discussing new technologies, potential opportunities, or general queries!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
+
+
 
