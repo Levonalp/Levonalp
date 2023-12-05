@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile!
 
-### 📍 Austin, TX | 📧 lwshabee@gmail.com | 🌐 [levonalshabi.com](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
+### 📍 Austin, TX | 🌐 [levonalshabi.com](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
 
 ---
 
