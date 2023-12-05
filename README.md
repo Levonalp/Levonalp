@@ -25,14 +25,6 @@ I'm a Software Engineer with a focus on full-stack development, deeply passionat
 
 ---
 
-## 📚 Education
-
-- **Bachelor's in Computer Science**, IUoB
-- **Associate in Science (A.S.)**, Oakland Community College
-- **Licensed Real Estate Appraiser & Salesperson**, State of Texas
-
----
-
 ## 🌱 I'm currently...
 
 - Exploring new advancements in fintech, especially microservices and cloud technologies.
