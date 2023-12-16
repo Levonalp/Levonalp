@@ -1,4 +1,4 @@
-# Hi there, I'm Levon Alshabi! 
+# Hi there
 
 ## Welcome to My GitHub Profile!
 
