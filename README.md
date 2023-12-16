@@ -32,11 +32,6 @@ I'm a Software Engineer with a focus on full-stack development, deeply passionat
 
 ---
 
-### 📫 How to Reach Me
-
-Feel free to reach out for collaborations or if you're interested in learning more about my experience. I'm always open to discussing new technologies, potential opportunities, or general queries!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
 
 
 
