@@ -1,5 +1,3 @@
-# Hi There
-
 ## Welcome to My GitHub Profile!
 
 ### 📍 Austin, TX | 🌐 [levonalshabi.com](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
