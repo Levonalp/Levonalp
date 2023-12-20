@@ -8,9 +8,7 @@ I'm a Software Engineer with a focus on full-stack development, deeply passionat
 
 ---
 
-## 💼 Professional Snapshot
 
-- **Current Role:** Software Engineer at Cofi (Remote) - Pioneering in architecting and enhancing fintech solutions with a focus on scalability and user experience.
 - **Background:** Diverse experience spanning software engineering, real estate sales, and appraisals - a blend that gives me a unique perspective on tech solutions.
 
 ---
