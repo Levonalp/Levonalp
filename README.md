@@ -17,7 +17,6 @@ I'm a Software Engineer with a focus on full-stack development, deeply passionat
 
 - **Languages & Frameworks:** ReactJS, Node.js, Django, Express.js, JavaScript, Python, HTML5, CSS3, SQL, JSON
 - **Technologies & Tools:** Git, MongoDB, Ansible, OAuth, GitHub, Agile, Microservices, Ubuntu, Linux, PagerDuty, VS Code, Jira, Confluence, Mongoose
-- **Soft Skills:** Bridging technical and non-technical stakeholders, product demonstrations, client consultation, and relationship building
 
 ---
 
