@@ -20,11 +20,6 @@ I'm a Software Engineer with a focus on full-stack development, deeply passionat
 
 ---
 
-## 🌱 I'm currently..
-
-- Exploring new advancements in fintech, especially microservices and cloud technologies.
-
----
 
 
 
