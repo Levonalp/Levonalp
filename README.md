@@ -1,26 +1,11 @@
-## Welcome to My Profile!
+Welcome to My Profile!
+🌐 Visit My Website | 🔗 Connect on LinkedIn
+I am a Software Engineer specializing in full-stack development with a passion for pioneering fintech solutions. I aim to combine my extensive technical knowledge and strategic approach to drive business growth and innovation.
 
-###  🌐 [levonalshabi.com](http://levonalshabi.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lalshabi/)
+Background
+My unique perspective stems from a diverse background in software engineering, real estate sales, and appraisals, enabling me to devise multifaceted tech solutions.
 
----
+🛠️ Technical Skills
+Languages & Frameworks: Proficient in ReactJS, Node.js, Django, Express.js, JavaScript, Python, HTML5, CSS3, SQL, JSON, and familiar with Data Structures and Algorithms.
 
-I'm a Software Engineer with a focus on full-stack development, deeply passionate about creating innovative fintech solutions. My goal is to leverage my extensive technical expertise and strategic sales approach to drive business growth and technological advancements.
-
----
-
-
-- **Background:** Diverse experience spanning software engineering, real estate sales, and appraisals - a blend that gives me a unique perspective on tech solutions.
-
----
-
-## 🛠️ Technical Expertise
-
-- **Languages & Frameworks:** ReactJS, Node.js, Django, Express.js, JavaScript, Python, HTML5, CSS3, SQL, JSON, Data Structures and Algorithms.
-- **Technologies & Tools:** Git, MongoDB, Ansible, OAuth, GitHub, Agile, Microservices, Ubuntu, Linux, PagerDuty, VS Code, Jira, Confluence, Mongoose..
-
----
-
-
-
-
-
+Technologies & Tools: Experienced with Git, MongoDB, Ansible, OAuth, GitHub, Agile methodologies, Microservices, Ubuntu, Linux, PagerDuty, VS Code, Jira, Confluence, Mongoose, and more.
